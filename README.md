@@ -1,6 +1,6 @@
-# DevOps Assessment Homework
+# Platform Assessment Homework
 
-This is TravelPerk's assessment homework for DevOps candidates.
+This is TravelPerk's assessment homework for Platform candidates.
 
 Please read
 this document thoroughly and don't hesitate to contact us to devops@travelperk.com if you have any
@@ -35,7 +35,7 @@ In a virtualenv, run:
      with a single service and 2 replicas of this application (i.e.  with one
      task definition and two running tasks).
    * Terraform the deployment. Please use this repository for references
-     [devops-assessment-terraform][1].  Check the instructions there for
+     [platform-assessment-terraform][1].  Check the instructions there for
      general info and to know what services and permissions are available.
 
 ### Create a CI/CD deployment
@@ -71,4 +71,4 @@ the service you have deployed.
 
  **Many thanks for your time and good luck!**
 
-[1]: https://github.com/travelperk/devops-assessment-terraform
+[1]: https://github.com/travelperk/platform-assessment-terraform
