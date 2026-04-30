@@ -1,5 +1,5 @@
 variable "region" {
-  default = "eu-west-1"
+  default = "ap-northeast-2"
 }
 
 variable "image_uri" {
