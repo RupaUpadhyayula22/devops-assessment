@@ -11,6 +11,9 @@ A Flask "Hello, World" application deployed on AWS Fargate using Terraform and G
 - **Infrastructure as Code**: Terraform
 - **CI/CD**: GitHub Actions
 
+## Live URL
+http://platform-assessment-alb-2106609989.ap-northeast-2.elb.amazonaws.com
+
 ## CI/CD Pipeline
 
 **On Pull Request:**
